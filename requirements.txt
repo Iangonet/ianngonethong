@@ -1,0 +1,6 @@
+torch
+numpy
+matplotlib
+gym[atari]
+autorom[accept-rom-license]
+ale-py
